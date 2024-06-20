@@ -15,10 +15,11 @@ This project is a React-based interactive dashboard for visualizing and optimizi
 
 ### Installation
 
-1. **Extract the source files**:
+1. **Clone the repository**:
 
     ```sh
-    cd Facility-Location-Optimization
+    git clone https://github.com/Rachitha-Srinath/Factory-Location.git
+    cd Facility-Location
     ```
 
 2. **Install dependencies**:
