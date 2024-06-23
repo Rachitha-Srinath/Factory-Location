@@ -60,7 +60,7 @@ function App() {
     <>
       <Navbar bg="dark" data-bs-theme="dark">
         <Container>
-          <Navbar.Brand>Factory Location Optimization</Navbar.Brand>
+          <Navbar.Brand>Facility Location Optimization</Navbar.Brand>
         </Container>
       </Navbar>
 
