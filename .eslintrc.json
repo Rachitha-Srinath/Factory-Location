@@ -11,14 +11,18 @@
       "ecmaFeatures": {
         "jsx": true
       },
-      "ecmaVersion": 12,
+      "ecmaVersion": "latest",
       "sourceType": "module"
     },
     "plugins": [
       "react"
     ],
     "rules": {
-      "no-unused-vars": "off"
+      "no-unused-vars": "warn"
+    },
+    "settings": {
+      "react": {
+        "version": "detect"
+      }
     }
-  }
-  
+}
